@@ -6,9 +6,11 @@
 
 ## 변경대상 자원
 - TBL_Pension
-	: 30 results found in 23 files for update\s+tbl_pension\s+.+
+	: 33 results found in 26 files for update\s+tbl_pension\s+.+
     
         www/singly_admin/mem_pass_find.asp(1)
+	www/singly_admin/pension/pension_edit_ok.asp(1)
+	www/Woori_inside/pension/pension_edit_ok.asp(1)
         www/singly_admin/pension/room_edit_ok.asp(1)
         www/test-PensionZonePwChange.asp(1)
         www/test-PensionZonePwChange1.asp(1)
@@ -25,6 +27,7 @@
         www/woori_scm/pension/pension_edit_calendar2.asp(1)
         www/woori_scm/pension/pension_edit_ok_20151016.asp(1)
         www/woori_scm/pension/pension_edit_ok.asp(1)
+	www/woori_scm/allskill/popup/pension_edit_ok.asp(1)
         www/woori_scm/pension/pension_list2_ok.asp(1)
         www/woori_scm/pension/pension_season_ok.asp(1)
         www/woori_scm/pension/singly_cmd.asp(1)
@@ -37,6 +40,7 @@
     
         www/singly_admin/pension/room_edit_ok_gubun.asp(1)
         www/singly_admin/pension/room_edit_ok_test.asp(1)
+	www/singly_admin/pension/room_edit_ok.asp(1)
         www/woori_scm/allskill/iframe/room_cmd.asp(1)
         www/woori_scm/pension/pension_edit_ok_20151016.asp(1)
         www/woori_scm/pension/pension_edit_ok.asp(1)
