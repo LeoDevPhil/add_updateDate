@@ -7,8 +7,8 @@
 ## 변경대상 자원
 - TBL_Pension
 	: 33 results found in 26 files for update\s+tbl_pension\s+.+
-    
-        www/singly_admin/mem_pass_find.asp(1)
+	
+	www/singly_admin/mem_pass_find.asp(1)
 	www/singly_admin/pension/pension_edit_ok.asp(1)
 	www/Woori_inside/pension/pension_edit_ok.asp(1)
 	www/singly_admin/pension/room_edit_ok.asp(1)
@@ -36,7 +36,7 @@
 	www/woori_scm/setting/accountrate_cmd.asp(1)
 	
 - TBL_Pension_Room
-	: 7 results found in 7 files for update\s+tbl_pension_room\s+.+
+	: 8 results found in 8 files for update\s+tbl_pension_room\s+.+
     
         www/singly_admin/pension/room_edit_ok_gubun.asp(1)
         www/singly_admin/pension/room_edit_ok_test.asp(1)
